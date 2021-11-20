@@ -1,0 +1,70 @@
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color:black	;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 15px;
+    color: whitesmoke;
+   padding: 100px;
+   pointer-events: all;
+   
+}
+button{
+    background-image: linear-gradient(to bottom right, green ,lightgreen);
+    border-radius: 15px;
+    padding: 5px;
+    cursor: pointer; 
+    font-size: 1.2em;
+    border: none;
+    width: 100%;
+    outline: none;
+}
+
+input{
+    padding: 15px;
+    border-radius: 15px;
+    outline: none;
+}
+body, ul, li, p {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    font-size: 1.2rem;
+    font-family: Arial;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.flex div a, .flex2 div a {
+    color: #1d1e20;
+}
+
+
+
+.header {
+    background: #1d1e20;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li {
+    margin-left: 10px;
+}
+
+.menu li a {
+    display: block;
+    padding: 10px;
+}
