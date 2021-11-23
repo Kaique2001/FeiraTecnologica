@@ -8,7 +8,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>E-commerce</title>
-    <script src="https://enterprise.wibson.io/banner.js?siteId=8704cf84-7dd5-4d35-a8ef-1cc4482bd6c8"></script>
+    	<script src="https://enterprise.wibson.io/banner.js?siteId=8704cf84-7dd5-4d35-a8ef-1cc4482bd6c8"></script>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" />
 	<link rel="stylesheet" href="css/style.css">
 </head>
