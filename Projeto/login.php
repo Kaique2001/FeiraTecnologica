@@ -18,11 +18,16 @@
    <br/><br/>
    <br/><br/>
     <div>
+        <p>
+            usuario: admin <br>
+            senha: admin
+        </p>
+
          <h1>Login</h1>
          <form action="indexlogin.php" method="POST">
-            <input name="txtemail" type="email" placeholder="Email">
+            <input name="txtusuario" type="text" placeholder="Insira o seu usuário">
             <br/><br/>
-            <input name="txtsenha" type="password" placeholder="Senha">
+            <input name="txtsenha" type="password" placeholder="Insira a sua senha">
             <br/><br/>
             <input type="submit" value="Confirmar">
         </form>
