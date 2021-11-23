@@ -27,19 +27,19 @@
 
     <section class="flex">
         <div>
-            <a href="ecommerce.php">
+            <a href="ecommerce.html">
                 <img src="imagens/ecommerce1.jpg" alt="E-commerce">
                 <p>O que é e-commerce ?</p>
             </a>
         </div>
         <div>
-            <a href="saibamais.php">
+            <a href="saibamais.html">
                 <img src="imagens/info2.jpg" alt="Mais Informações">
                 <p>Saiba mais sobre o nosso Projeto</p>
             </a>
         </div>
         <div>
-            <a href="acessibilidade.php">
+            <a href="acessibilidade.html">
                 <img src="imagens/libras3.jpg" alt="Acessibilidade">
                 <p>Acessibilidade</p>
             </a>
