@@ -16,3 +16,4 @@ Kaique Dias.
 *Obs: O arquivo de conexão que está presente no repositório se encontra com as credenciais vazias, caso queira rodar o projeto na sua máquina, crie a base de dados conforme o arquivo "loja_site.sql" indica e informe as credenciais de conexão do banco aonde você o criou para funcionar corretamente.
 
 Acesse o nosso site em: http://www.agfbonfiglioli.com.br/agfbonfiglioli02/index.php
+Veja o nosso vídeo em: https://www.youtube.com/watch?v=pHDaOx-qNps
